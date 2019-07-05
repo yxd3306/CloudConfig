@@ -1,1 +1,3 @@
-test: Ó÷Ïæ¶«
+spring:
+  application:
+    name: test
